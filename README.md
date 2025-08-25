@@ -162,8 +162,6 @@ This file should be placed in the root directory of the project. The application
 
 ---
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
